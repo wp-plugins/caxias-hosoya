@@ -35,6 +35,9 @@ You will find an additional field while Edit categories.
 
 You have no question because of simple plugin.
 
+== Screenshots ==
+`/assets/screenshot-1.png`
+
 
 == Changelog ==
 
