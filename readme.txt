@@ -36,7 +36,7 @@ You will find an additional field while Edit categories.
 You have no question because of simple plugin.
 
 == Screenshots ==
-1. this display
+1. It will be displayed here
 
 
 == Changelog ==
