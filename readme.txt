@@ -17,6 +17,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 gatespace
 jim912
 pictron
+hissy
 WordCamp Kobe2013 Member and WordPress Community friends.
 
 = Usage =
